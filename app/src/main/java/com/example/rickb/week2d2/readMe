@@ -1,0 +1,7 @@
+1/16/2019 Ricky Bojorquez
+
+INSTRUCTIONS:
+Run app, first activity will be a linear layout with a button named edit table and a Recycler view
+with all the Students currently in the database. Click edit table button to go to next activity which
+contains a user interface with forms for inputting the fields of a Student. Below the forms are buttons
+for performing all the necessary CRUD operations.
